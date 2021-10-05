@@ -35,5 +35,3 @@ while i >1:
 
 
 
-for i in num_list:
-    print(i)
